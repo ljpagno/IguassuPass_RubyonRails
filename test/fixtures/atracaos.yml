@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Id: 1
+  nome: MyString
+  custo: 1.5
+
+two:
+  Id: 1
+  nome: MyString
+  custo: 1.5

@@ -10,6 +10,8 @@ gem 'sqlite3'
 gem 'json'
 
 gem "twitter-bootstrap-rails"
+
+gem 'gmaps4rails'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
