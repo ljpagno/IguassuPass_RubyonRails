@@ -1,4 +1,6 @@
 IguassuPass::Application.routes.draw do
+  resources :homes
+
   resources :usuarios
 
   resources :atracaos
